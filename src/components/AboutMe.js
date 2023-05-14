@@ -34,7 +34,7 @@ function AboutMe() {
                 <li><img src={ux} alt="girl" className="mini"/>I love creating websites using React, HTML5, CSS, SASS and Vanilla Javascript!</li>
                 <li><img src={app} alt="girl" className="mini"/>My passion is connecting my creative side and technology</li>
                 <li><img src={linux} alt="girl" className="mini"/>To make everything work, I also create servers on Linux installing Apache, PHP and MySQL where websites are host </li>
-                <li><img src={team} alt="girl" className="mini"/>I would describe myself as dedicated to work and friendly person who realy enjoy working in team</li>
+                <li><img src={team} alt="girl" className="mini"/>I would describe myself as dedicated to work and friendly person who really enjoy working in team</li>
                 <li><img src={dog} alt="girl" className="mini"/>My inspiration often comes in nature playing with my 2 dogs, where I fulfill my batteries . </li>
                 <li><img src={friend} alt="girl" className="mini"/>Hanging out with my friends and spending time with my family is something precious. </li>
                 <li><img src={dancer} alt="girl" className="mini"/>I also really enjoy dancing salsa, going to gym or just stay at home making delicious meals and watch Harry Potter movies </li>
