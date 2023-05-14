@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Nadjawebsite/static/css/main.460c0539.css",
+    "main.css": "/Nadjawebsite/static/css/main.e465dd26.css",
     "main.js": "/Nadjawebsite/static/js/main.4c411665.js",
     "static/js/787.43f6b40d.chunk.js": "/Nadjawebsite/static/js/787.43f6b40d.chunk.js",
     "static/media/fairy.mp4": "/Nadjawebsite/static/media/fairy.d8039f9a76ff1f456d4c.mp4",
@@ -20,12 +20,12 @@
     "static/media/app-development.png": "/Nadjawebsite/static/media/app-development.f9d169e80e84e333a6d1.png",
     "static/media/ux.png": "/Nadjawebsite/static/media/ux.ffa3e0dd754dc923e50b.png",
     "index.html": "/Nadjawebsite/index.html",
-    "main.460c0539.css.map": "/Nadjawebsite/static/css/main.460c0539.css.map",
+    "main.e465dd26.css.map": "/Nadjawebsite/static/css/main.e465dd26.css.map",
     "main.4c411665.js.map": "/Nadjawebsite/static/js/main.4c411665.js.map",
     "787.43f6b40d.chunk.js.map": "/Nadjawebsite/static/js/787.43f6b40d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.460c0539.css",
+    "static/css/main.e465dd26.css",
     "static/js/main.4c411665.js"
   ]
 }
