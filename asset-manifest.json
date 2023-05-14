@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Nadjawebsite/static/css/main.460c0539.css",
+    "main.js": "/Nadjawebsite/static/js/main.4c411665.js",
+    "static/js/787.43f6b40d.chunk.js": "/Nadjawebsite/static/js/787.43f6b40d.chunk.js",
+    "static/media/fairy.mp4": "/Nadjawebsite/static/media/fairy.d8039f9a76ff1f456d4c.mp4",
+    "static/media/frame.png": "/Nadjawebsite/static/media/frame.c470e9b7a37cbeba3271.png",
+    "static/media/green.png": "/Nadjawebsite/static/media/green.1f10bf58afcf1d3f1685.png",
+    "static/media/giphy.gif": "/Nadjawebsite/static/media/giphy.82d5275626dc2b229579.gif",
+    "static/media/me.png": "/Nadjawebsite/static/media/me.c6563430cfce4c5886e7.png",
+    "static/media/birthday-cake.png": "/Nadjawebsite/static/media/birthday-cake.17dc7a1bc74af1ea6646.png",
+    "static/media/movingb.gif": "/Nadjawebsite/static/media/movingb.10d962ce3fe573f94e6a.gif",
+    "static/media/dog-walking.png": "/Nadjawebsite/static/media/dog-walking.1dd3a90be8fe787c4ad9.png",
+    "static/media/high-five.png": "/Nadjawebsite/static/media/high-five.31d4ffe6496db09cc5ca.png",
+    "static/media/united.png": "/Nadjawebsite/static/media/united.76b856fb0813871dc675.png",
+    "static/media/linux.png": "/Nadjawebsite/static/media/linux.8485399ebd2c2f26bed8.png",
+    "static/media/girl.png": "/Nadjawebsite/static/media/girl.cc90df3ee75f309e8c40.png",
+    "static/media/serbia.png": "/Nadjawebsite/static/media/serbia.ca19bca49bb37728a30d.png",
+    "static/media/dancer.png": "/Nadjawebsite/static/media/dancer.77f9a818790d4b7ffc48.png",
+    "static/media/app-development.png": "/Nadjawebsite/static/media/app-development.f9d169e80e84e333a6d1.png",
+    "static/media/ux.png": "/Nadjawebsite/static/media/ux.ffa3e0dd754dc923e50b.png",
+    "index.html": "/Nadjawebsite/index.html",
+    "main.460c0539.css.map": "/Nadjawebsite/static/css/main.460c0539.css.map",
+    "main.4c411665.js.map": "/Nadjawebsite/static/js/main.4c411665.js.map",
+    "787.43f6b40d.chunk.js.map": "/Nadjawebsite/static/js/787.43f6b40d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.460c0539.css",
+    "static/js/main.4c411665.js"
+  ]
+}
