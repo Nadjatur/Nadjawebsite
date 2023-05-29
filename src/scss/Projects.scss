@@ -1,0 +1,33 @@
+@use "./Vars.scss" as var;
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+
+.Projects{font-family: 'Marck Script', cursive;
+    h1{font-size: 3rem;}
+    svg{border: 1px solid black;
+        border-radius: 50%;
+        align-items: center;
+        text-align: center;
+        padding: 2rem;width: 10rem;
+        transform: scale(0.2);g{transform: scale(0.5);}
+       }
+    //position: absolute;
+    margin-top: -12vh;
+h1{text-align: center;
+margin-bottom: 8rem;}
+.horizontal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    a{z-index: 4;text-decoration: none;}
+.item{color:var.$pink;
+border-radius: 50px;
+padding: 2rem;
+background-color: var.$violet;
+border: 1px solid black;font-family: 'Dancing Script',cursive;
+h1{font-size: 2rem;}
+}
+}
+}

@@ -22,7 +22,7 @@ function Starter() {
 
       <ul className="menuRight">
         <li><a href='#about'>About me</a></li>
-        <li><a>My projects</a></li>
+        <li><a href='#projects'>My projects</a></li>
         <li><a>Social media</a></li>
         <li><a>Contact me</a></li>
       </ul>
